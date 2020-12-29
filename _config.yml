@@ -3,14 +3,14 @@ title: kmon3g
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "assets" # the subpath of your site, e.g. /blog/
 url: "https://kmon3g.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: kmon3g
   github: github
   linkedin: linkedin
-  email: example@email.com
+  email: kmon3g@gmail.com
 
 
 # Syntax highlighting
