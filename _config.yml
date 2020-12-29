@@ -1,5 +1,5 @@
 # Site settings
-title: kmon3g
+title: kmon
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,7 +7,7 @@ baseurl: "assets" # the subpath of your site, e.g. /blog/
 url: "https://kmon3g.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: kmon3g
+  fullname: kmon
   github: github
   linkedin: linkedin
   email: kmon3g@gmail.com
