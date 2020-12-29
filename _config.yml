@@ -7,7 +7,7 @@ baseurl: "assets" # the subpath of your site, e.g. /blog/
 url: "https://kmon3g.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: kmon
+  fullname: kmon3g
   github: github
   linkedin: linkedin
   email: kmon3g@gmail.com
